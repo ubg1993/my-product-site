@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Sourdough Bread",
+    "price": "€4",
+    "description": "Classic tangy sourdough loaf, freshly baked.",
+    "image": "images/bread.jpg"
+  },
+  {
+    "name": "Butter Croissant",
+    "price": "€2",
+    "description": "Flaky and buttery croissant made fresh daily.",
+    "image": "images/croissant.jpg"
+  },
+  {
+    "name": "Blueberry Muffin",
+    "price": "€3",
+    "description": "Moist muffin loaded with fresh blueberries.",
+    "image": "images/muffin.jpg"
+  },
+  {
+    "name": "Chocolate Cake Slice",
+    "price": "€4.5",
+    "description": "Rich chocolate cake with creamy frosting.",
+    "image": "images/cake.jpg"
+  }
+]
